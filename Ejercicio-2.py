@@ -1,6 +1,6 @@
 '''
 Samsung innovation campus.
-Autor: Equipo 4. Juan, Addi, Aldo.
+Autor: Equipo 4. Juan, Addi, Aldoh.
 Programa: Ejercicio 2.
 Creado: 13/Octubre/2023. 
 Versión: 1.0
